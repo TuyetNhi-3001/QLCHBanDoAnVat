@@ -1,0 +1,52 @@
+\\Mac\Home\Documents\Personal\Project_QLCHBDAV\QLyCHBanDoAnVat\QLyCHBanDoAnVat\bin\Debug\net6.0-windows\QLyCHBanDoAnVat.exe
+\\Mac\Home\Documents\Personal\Project_QLCHBDAV\QLyCHBanDoAnVat\QLyCHBanDoAnVat\bin\Debug\net6.0-windows\QLyCHBanDoAnVat.deps.json
+\\Mac\Home\Documents\Personal\Project_QLCHBDAV\QLyCHBanDoAnVat\QLyCHBanDoAnVat\bin\Debug\net6.0-windows\QLyCHBanDoAnVat.runtimeconfig.json
+\\Mac\Home\Documents\Personal\Project_QLCHBDAV\QLyCHBanDoAnVat\QLyCHBanDoAnVat\bin\Debug\net6.0-windows\QLyCHBanDoAnVat.dll
+\\Mac\Home\Documents\Personal\Project_QLCHBDAV\QLyCHBanDoAnVat\QLyCHBanDoAnVat\bin\Debug\net6.0-windows\QLyCHBanDoAnVat.pdb
+\\Mac\Home\Documents\Personal\Project_QLCHBDAV\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\QLyCHBanDoAnVat.Form1.resources
+\\Mac\Home\Documents\Personal\Project_QLCHBDAV\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\QLyCHBanDoAnVat.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Personal\Project_QLCHBDAV\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\QLyCHBanDoAnVat.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Personal\Project_QLCHBDAV\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\QLyCHBanDoAnVat.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Personal\Project_QLCHBDAV\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\QLyCHBanDoAnVat.AssemblyInfo.cs
+\\Mac\Home\Documents\Personal\Project_QLCHBDAV\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\QLyCHBanDoAnVat.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Personal\Project_QLCHBDAV\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\QLyCHBanDoAnVat.dll
+\\Mac\Home\Documents\Personal\Project_QLCHBDAV\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\refint\QLyCHBanDoAnVat.dll
+\\Mac\Home\Documents\Personal\Project_QLCHBDAV\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\QLyCHBanDoAnVat.pdb
+\\Mac\Home\Documents\Personal\Project_QLCHBDAV\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\QLyCHBanDoAnVat.genruntimeconfig.cache
+\\Mac\Home\Documents\Personal\Project_QLCHBDAV\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\ref\QLyCHBanDoAnVat.dll
+\\Mac\Home\Documents\Personal\Project_QLCHBDAV\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\QLyCHBanDoAnVat.Form_TrangChu.resources
+\\Mac\Home\Documents\Personal\Project_QLCHBDAV\QLyCHBanDoAnVat\QLyCHBanDoAnVat\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+\\Mac\Home\Documents\Personal\Project_QLCHBDAV\QLyCHBanDoAnVat\QLyCHBanDoAnVat\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+\\Mac\Home\Documents\Personal\Project_QLCHBDAV\QLyCHBanDoAnVat\QLyCHBanDoAnVat\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+\\Mac\Home\Documents\Personal\Project_QLCHBDAV\QLyCHBanDoAnVat\QLyCHBanDoAnVat\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+\\Mac\Home\Documents\Personal\Project_QLCHBDAV\QLyCHBanDoAnVat\QLyCHBanDoAnVat\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\Mac\Home\Documents\Personal\Project_QLCHBDAV\QLyCHBanDoAnVat\QLyCHBanDoAnVat\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\Mac\Home\Documents\Personal\Project_QLCHBDAV\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\QLyCHBanDoAnVat.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Personal\Project_QLCHBDAV\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\QLyCHBanDoAnVat.csproj.CopyComplete
+\\Mac\Home\Documents\Personal\Project_QLCHBDAV\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\QLyCHBanDoAnVat.Form_NguoiQuanLy.resources
+C:\Users\HP\OneDrive - Hochiminh City University of Education\Anh em lương sơn bạc (AELSB)\AELSB_QLYCUAHANGBANDOANVAT\AELSB_QLYCUAHANGBANDOANVAT\QLyCHBanDoAnVat\QLyCHBanDoAnVat\bin\Debug\net6.0-windows\QLyCHBanDoAnVat.exe
+C:\Users\HP\OneDrive - Hochiminh City University of Education\Anh em lương sơn bạc (AELSB)\AELSB_QLYCUAHANGBANDOANVAT\AELSB_QLYCUAHANGBANDOANVAT\QLyCHBanDoAnVat\QLyCHBanDoAnVat\bin\Debug\net6.0-windows\QLyCHBanDoAnVat.deps.json
+C:\Users\HP\OneDrive - Hochiminh City University of Education\Anh em lương sơn bạc (AELSB)\AELSB_QLYCUAHANGBANDOANVAT\AELSB_QLYCUAHANGBANDOANVAT\QLyCHBanDoAnVat\QLyCHBanDoAnVat\bin\Debug\net6.0-windows\QLyCHBanDoAnVat.runtimeconfig.json
+C:\Users\HP\OneDrive - Hochiminh City University of Education\Anh em lương sơn bạc (AELSB)\AELSB_QLYCUAHANGBANDOANVAT\AELSB_QLYCUAHANGBANDOANVAT\QLyCHBanDoAnVat\QLyCHBanDoAnVat\bin\Debug\net6.0-windows\QLyCHBanDoAnVat.dll
+C:\Users\HP\OneDrive - Hochiminh City University of Education\Anh em lương sơn bạc (AELSB)\AELSB_QLYCUAHANGBANDOANVAT\AELSB_QLYCUAHANGBANDOANVAT\QLyCHBanDoAnVat\QLyCHBanDoAnVat\bin\Debug\net6.0-windows\QLyCHBanDoAnVat.pdb
+C:\Users\HP\OneDrive - Hochiminh City University of Education\Anh em lương sơn bạc (AELSB)\AELSB_QLYCUAHANGBANDOANVAT\AELSB_QLYCUAHANGBANDOANVAT\QLyCHBanDoAnVat\QLyCHBanDoAnVat\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\HP\OneDrive - Hochiminh City University of Education\Anh em lương sơn bạc (AELSB)\AELSB_QLYCUAHANGBANDOANVAT\AELSB_QLYCUAHANGBANDOANVAT\QLyCHBanDoAnVat\QLyCHBanDoAnVat\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\OneDrive - Hochiminh City University of Education\Anh em lương sơn bạc (AELSB)\AELSB_QLYCUAHANGBANDOANVAT\AELSB_QLYCUAHANGBANDOANVAT\QLyCHBanDoAnVat\QLyCHBanDoAnVat\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\HP\OneDrive - Hochiminh City University of Education\Anh em lương sơn bạc (AELSB)\AELSB_QLYCUAHANGBANDOANVAT\AELSB_QLYCUAHANGBANDOANVAT\QLyCHBanDoAnVat\QLyCHBanDoAnVat\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\HP\OneDrive - Hochiminh City University of Education\Anh em lương sơn bạc (AELSB)\AELSB_QLYCUAHANGBANDOANVAT\AELSB_QLYCUAHANGBANDOANVAT\QLyCHBanDoAnVat\QLyCHBanDoAnVat\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\OneDrive - Hochiminh City University of Education\Anh em lương sơn bạc (AELSB)\AELSB_QLYCUAHANGBANDOANVAT\AELSB_QLYCUAHANGBANDOANVAT\QLyCHBanDoAnVat\QLyCHBanDoAnVat\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\OneDrive - Hochiminh City University of Education\Anh em lương sơn bạc (AELSB)\AELSB_QLYCUAHANGBANDOANVAT\AELSB_QLYCUAHANGBANDOANVAT\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\QLyCHBanDoAnVat.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive - Hochiminh City University of Education\Anh em lương sơn bạc (AELSB)\AELSB_QLYCUAHANGBANDOANVAT\AELSB_QLYCUAHANGBANDOANVAT\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\QLyCHBanDoAnVat.Form1.resources
+C:\Users\HP\OneDrive - Hochiminh City University of Education\Anh em lương sơn bạc (AELSB)\AELSB_QLYCUAHANGBANDOANVAT\AELSB_QLYCUAHANGBANDOANVAT\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\QLyCHBanDoAnVat.Form_NguoiQuanLy.resources
+C:\Users\HP\OneDrive - Hochiminh City University of Education\Anh em lương sơn bạc (AELSB)\AELSB_QLYCUAHANGBANDOANVAT\AELSB_QLYCUAHANGBANDOANVAT\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\QLyCHBanDoAnVat.Form_TrangChu.resources
+C:\Users\HP\OneDrive - Hochiminh City University of Education\Anh em lương sơn bạc (AELSB)\AELSB_QLYCUAHANGBANDOANVAT\AELSB_QLYCUAHANGBANDOANVAT\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\QLyCHBanDoAnVat.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive - Hochiminh City University of Education\Anh em lương sơn bạc (AELSB)\AELSB_QLYCUAHANGBANDOANVAT\AELSB_QLYCUAHANGBANDOANVAT\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\QLyCHBanDoAnVat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive - Hochiminh City University of Education\Anh em lương sơn bạc (AELSB)\AELSB_QLYCUAHANGBANDOANVAT\AELSB_QLYCUAHANGBANDOANVAT\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\QLyCHBanDoAnVat.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive - Hochiminh City University of Education\Anh em lương sơn bạc (AELSB)\AELSB_QLYCUAHANGBANDOANVAT\AELSB_QLYCUAHANGBANDOANVAT\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\QLyCHBanDoAnVat.AssemblyInfo.cs
+C:\Users\HP\OneDrive - Hochiminh City University of Education\Anh em lương sơn bạc (AELSB)\AELSB_QLYCUAHANGBANDOANVAT\AELSB_QLYCUAHANGBANDOANVAT\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\QLyCHBanDoAnVat.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive - Hochiminh City University of Education\Anh em lương sơn bạc (AELSB)\AELSB_QLYCUAHANGBANDOANVAT\AELSB_QLYCUAHANGBANDOANVAT\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\QLyCHBanDoAnVat.csproj.CopyComplete
+C:\Users\HP\OneDrive - Hochiminh City University of Education\Anh em lương sơn bạc (AELSB)\AELSB_QLYCUAHANGBANDOANVAT\AELSB_QLYCUAHANGBANDOANVAT\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\QLyCHBanDoAnVat.dll
+C:\Users\HP\OneDrive - Hochiminh City University of Education\Anh em lương sơn bạc (AELSB)\AELSB_QLYCUAHANGBANDOANVAT\AELSB_QLYCUAHANGBANDOANVAT\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\refint\QLyCHBanDoAnVat.dll
+C:\Users\HP\OneDrive - Hochiminh City University of Education\Anh em lương sơn bạc (AELSB)\AELSB_QLYCUAHANGBANDOANVAT\AELSB_QLYCUAHANGBANDOANVAT\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\QLyCHBanDoAnVat.pdb
+C:\Users\HP\OneDrive - Hochiminh City University of Education\Anh em lương sơn bạc (AELSB)\AELSB_QLYCUAHANGBANDOANVAT\AELSB_QLYCUAHANGBANDOANVAT\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\QLyCHBanDoAnVat.genruntimeconfig.cache
+C:\Users\HP\OneDrive - Hochiminh City University of Education\Anh em lương sơn bạc (AELSB)\AELSB_QLYCUAHANGBANDOANVAT\AELSB_QLYCUAHANGBANDOANVAT\QLyCHBanDoAnVat\QLyCHBanDoAnVat\obj\Debug\net6.0-windows\ref\QLyCHBanDoAnVat.dll
